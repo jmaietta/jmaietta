@@ -18,7 +18,7 @@ Founder of **TEK2day Holdings** — AI-powered FinTech applications & content.
 - TEK2day Holdings repo: https://github.com/jmaietta/TEK2day_Holdings
 
 
-## More
+## Project & Interests
 - Personal & professional page: https://jmaietta.github.io/JMC/
 
 ## Social
