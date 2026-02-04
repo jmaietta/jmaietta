@@ -2,7 +2,7 @@
 
 Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. 
 
-## Live products
+## Applications & Content
 - **TEK2day Holdings**: https://tek2dayholdings.com/
 - **CEORater** — CEO performance data & analytics: https://www.ceorater.com/
 - **T2D Pulse** — AI, Software, and FinTech news: https://pulse.tek2dayholdings.com/
