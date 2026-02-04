@@ -1,6 +1,6 @@
 # Jon Maietta
 
-Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. 
+Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. CEORater is our core asset.
 
 ## Applications & Content
 - **TEK2day Holdings**: https://tek2dayholdings.com/
@@ -8,18 +8,19 @@ Founder of **TEK2day Holdings** — AI-powered FinTech applications & content.
 - **T2D Pulse** — AI, Software, and FinTech news: https://pulse.tek2dayholdings.com/
 - **T2D Dashboard** — markets + apps hub: https://dash.tek2dayholdings.com/
 - **FinModel** — financial model automation: https://finmodel.app/
+- **EPS Calendar** — T2D Earnings calendar: https://calendar.tek2dayholdings.com/
 - **FinClaw** — finance-focused skill registry for AI agents: https://finclaw.dev/
 
-## Open-source highlights
+## Open-source Repos
 - FinClaw: https://github.com/jmaietta/finclaw
 - T2D Pulse: https://github.com/jmaietta/T2DPulse
 - T2D Dashboard: https://github.com/jmaietta/T2D_Dashboard
 - EDGAR filing watcher: https://github.com/jmaietta/edgar-filing-watcher
-- TEK2day Holdings repo: https://github.com/jmaietta/TEK2day_Holdings
-
+- EPS Calendar: https://github.com/jmaietta/EPS_Calendar
+- TEK2day Holdings: https://github.com/jmaietta/TEK2day_Holdings
 
 ## Projects & Interests
 - Personal & professional page: https://jmaietta.github.io/JMC/
 
-## Social
-- LinkedIn: https://www.linkedin.com/in/jonathanmaietta/
+## News & Insights
+- CEORater News: https://www.ceorater.com/news
