@@ -14,10 +14,10 @@ Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. *
 
 ## Open-source Repos
 - FinClaw: https://github.com/jmaietta/finclaw
-- T2D Pulse: https://github.com/jmaietta/T2DPulse
-- T2D Dashboard: https://github.com/jmaietta/T2D_Dashboard
 - EDGAR filing watcher: https://github.com/jmaietta/edgar-filing-watcher
 - EPS Calendar: https://github.com/jmaietta/EPS_Calendar
+- T2D Dashboard: https://github.com/jmaietta/T2D_Dashboard
+- T2D Pulse: https://github.com/jmaietta/T2DPulse
 - TEK2day Holdings: https://github.com/jmaietta/TEK2day_Holdings
 
 ## Projects & Interests
