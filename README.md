@@ -4,12 +4,12 @@ Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. *
 
 ## Applications & Content
 - **CEORater** — CEO performance data & analytics: https://www.ceorater.com/
-- **TEK2day Newsletter**— technology & capital markets content: https://newsletter.tek2dayholdings.com/
-- **T2D Pulse** — AI, Software, and FinTech news: https://pulse.tek2dayholdings.com/
-- **T2D Dashboard** — markets + apps hub: https://dash.tek2dayholdings.com/
-- **FinModel** — financial model automation: https://finmodel.app/
 - **EPS Calendar** — T2D Earnings calendar: https://calendar.tek2dayholdings.com/
 - **FinClaw** — finance-focused skill registry for AI agents: https://finclaw.dev/
+- **FinModel** — financial model automation: https://finmodel.app/
+- **TEK2day Newsletter**— technology & capital markets content: https://newsletter.tek2dayholdings.com/
+- **T2D Dashboard** — markets + apps hub: https://dash.tek2dayholdings.com/
+- **T2D Pulse** — AI, Software, and FinTech news: https://pulse.tek2dayholdings.com/
 - **TEK2day Holdings** — holding company: https://tek2dayholdings.com/
 
 ## Open-source Repos
