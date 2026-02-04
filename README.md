@@ -1,6 +1,6 @@
 # Jon Maietta
 
-Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. CEORater is our core asset.
+Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. **CEORater** is our core asset.
 
 ## Applications & Content
 - **TEK2day Holdings**: https://tek2dayholdings.com/
