@@ -3,13 +3,14 @@
 Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. **CEORater** is our core asset.
 
 ## Applications & Content
-- **TEK2day Holdings**: https://tek2dayholdings.com/
 - **CEORater** — CEO performance data & analytics: https://www.ceorater.com/
+- **TEK2day Newsletter**: https://newsletter.tek2dayholdings.com/
 - **T2D Pulse** — AI, Software, and FinTech news: https://pulse.tek2dayholdings.com/
 - **T2D Dashboard** — markets + apps hub: https://dash.tek2dayholdings.com/
 - **FinModel** — financial model automation: https://finmodel.app/
 - **EPS Calendar** — T2D Earnings calendar: https://calendar.tek2dayholdings.com/
 - **FinClaw** — finance-focused skill registry for AI agents: https://finclaw.dev/
+- **TEK2day Holdings**: https://tek2dayholdings.com/
 
 ## Open-source Repos
 - FinClaw: https://github.com/jmaietta/finclaw
