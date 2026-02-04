@@ -1,6 +1,6 @@
 # Jon Maietta
 
-Founder of **TEK2day Holdings** — building finance-first software and content at the intersection of **Technology** and the **Capital Markets**.
+Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. 
 
 ## Live products
 - **TEK2day Holdings**: https://tek2dayholdings.com/
