@@ -23,4 +23,4 @@ Founder of **TEK2day Holdings** — AI-powered FinTech applications & content.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/jonathanmaietta/
-- X: https://x.com/JonathanMaietta
+- Email: info@tek2day.com
