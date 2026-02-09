@@ -4,6 +4,7 @@ Founder of **TEK2day Holdings** — AI-powered FinTech applications & content. *
 
 ## Applications & Content
 - **CEORater** — CEO performance data & analytics: https://www.ceorater.com/
+- **Edgar Watcher (Web)** — Automated SEC filing retrieval: https://edgar.tek2dayholdings.com/
 - **EPS Calendar** — T2D Earnings calendar: https://calendar.tek2dayholdings.com/
 - **FinClaw** — finance-focused skill registry for AI agents: https://finclaw.dev/
 - **FinModel** — financial model automation: https://finmodel.app/
